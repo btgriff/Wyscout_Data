@@ -1,0 +1,35 @@
+# Rebuilds player_index/ whenever league data changes, so Second Look can find
+# every league-season a player appears in.
+name: Build player index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Main App/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build index
+        run: python tools/build_player_index.py
+      - name: Commit index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898338+github-actions[bot]@users.noreply.github.com"
+          git add player_index
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update player index"
+            git push
+          fi
