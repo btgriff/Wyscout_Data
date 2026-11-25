@@ -2099,140 +2099,141 @@ idx,gender,league,season
 2097,Men,NCAA D2 East Coast Conference,2026 Fall
 2098,Men,NJCAA Non-conference matches,2026 Fall
 2099,Men,NCAA D3 American Southwest Conference,2026 Fall
-2100,Women,A-League Women,23-24
-2101,Women,Belgian Super League,23-24
-2102,Women,Brasileiro Women,2023
-2103,Women,Chinese Super League Women,2023
-2104,Women,Colombian Liga Femenina BetPlay,2023
-2105,Women,Czech 1. Liga Women,23-24
-2106,Women,Danish A-Liga,23-24
-2107,Women,English WSL,23-24
-2108,Women,English Women's Championship,23-24
-2109,Women,Kansallinen Liiga,2023
-2110,Women,D1 Féminine,23-24
-2111,Women,Frauen Bundesliga,23-24
-2112,Women,2. Bundesliga Women,23-24
-2113,Women,Hong Kong 1st Division,23-24
-2114,Women,Úrvalsdeild Women,2023
-2115,Women,Serie A Women,23-24
-2116,Women,WE League,23-24
-2117,Women,Nadeshiko League 1,2023
-2118,Women,Latvian Women's League,2023
-2119,Women,Liga MX Femenil,23-24
-2120,Women,Vrouwen Eredivisie,23-24
-2121,Women,NZ National Women's League,2023
-2122,Women,NI Premiership Women,2023
-2123,Women,Toppserien,2023
-2124,Women,Polish Ekstraliga,23-24
-2125,Women,Campeonato Nacional Feminino,23-24
-2126,Women,Irish Women's Premier League,2023
-2127,Women,Russian Super League,2023
-2128,Women,SWPL 1,23-24
-2129,Women,SWPL 2,23-24
-2130,Women,Primera Federación Femenina,23-24
-2131,Women,Liga F,23-24
-2132,Women,Damallsvenskan,2023
-2133,Women,Elitettan,2023
-2134,Women,Swiss Women's Super League,23-24
-2135,Women,Ukrainian Premier League Women,23-24
-2136,Women,NWSL,2023
-2137,Women,Brasileiro Women,2024
-2138,Women,Chinese Super League Women,2024
-2139,Women,Colombian Liga Femenina BetPlay,2024
-2140,Women,Kansallinen Liiga,2024
-2141,Women,Úrvalsdeild Women,2024
-2142,Women,Latvian Women's League,2024
-2143,Women,NI Premiership Women,2024
-2144,Women,Toppserien,2024
-2145,Women,Irish Women's Premier League,2024
-2146,Women,Russian Super League,2024
-2147,Women,Damallsvenskan,2024
-2148,Women,Elitettan,2024
-2149,Women,NWSL,2024
-2150,Women,Queensland NPL Women,2024
-2151,Women,Victoria NPL Women,2024
-2152,Women,1. Division Women,2024
-2153,Women,Queensland FQPL 1 Women,2024
-2154,Women,Western Australia NPL Women,2024
-2155,Women,A-League Women,24-25
-2156,Women,Belgian Super League,24-25
-2157,Women,Czech 1. Liga Women,24-25
-2158,Women,Danish A-Liga,24-25
-2159,Women,English WSL,24-25
-2160,Women,English Women's Championship,24-25
-2161,Women,D1 Féminine,24-25
-2162,Women,Frauen Bundesliga,24-25
-2163,Women,2. Bundesliga Women,24-25
-2164,Women,Hong Kong 1st Division,24-25
-2165,Women,WE League,24-25
-2166,Women,Liga MX Femenil,24-25
-2167,Women,NZ National Women's League,2024
-2168,Women,Polish Ekstraliga,24-25
-2169,Women,Campeonato Nacional Feminino,24-25
-2170,Women,SWPL 1,24-25
-2171,Women,SWPL 2,24-25
-2172,Women,Primera Federación Femenina,24-25
-2173,Women,Swiss Women's Super League,24-25
-2174,Women,Ukrainian Premier League Women,24-25
-2175,Women,USL Super League,24-25
-2176,Women,Brasileiro Women,2025
-2177,Women,NWSL,2025
-2178,Women,Damallsvenskan,2025
-2179,Women,Queensland NPL Women,2025
-2180,Women,Toppserien,2025
-2181,Women,Elitettan,2025
-2182,Women,Victoria NPL Women,2025
-2183,Women,Irish Women's Premier League,2025
-2184,Women,1. Division Women,2025
-2185,Women,Úrvalsdeild Women,2025
-2186,Women,Chinese Super League Women,2025
-2187,Women,Western Australia NPL Women,2025
-2188,Women,Queensland FQPL 1 Women,2025
-2189,Women,Russian Super League,2025
-2190,Women,Kansallinen Liiga,2025
-2191,Women,NI Premiership Women,2025
-2192,Women,Latvian Women's League,2025
-2193,Women,Colombian Liga Femenina BetPlay,2025
-2194,Women,Northern Super League,2025
-2195,Women,Kazakh QJ League U17,2025
-2196,Women,Liga MX Femenil,25-26
-2197,Women,Belgian Super League,25-26
-2198,Women,Danish A-Liga,25-26
-2199,Women,Danish U19 League,25-26
-2200,Women,Danish U16 League,25-26
-2201,Women,English WSL,25-26
-2202,Women,English Women's Championship,25-26
-2203,Women,D1 Féminine,25-26
-2204,Women,Frauen Bundesliga,25-26
-2205,Women,2. Bundesliga Women,25-26
-2206,Women,WE League,25-26
-2207,Women,Polish Ekstraliga,25-26
-2208,Women,Campeonato Nacional Feminino,25-26
-2209,Women,SWPL 1,25-26
-2210,Women,SWPL 2,25-26
-2211,Women,Ukrainian Premier League Women,25-26
-2212,Women,USL Super League,25-26
-2213,Women,A-League Women,25-26
-2214,Women,Serie A Women,25-26
-2215,Women,Hong Kong 1st Division,25-26
-2216,Women,NCAA D1,2025
-2217,Women,NCAA D1,2024
-2218,Women,Brasileiro Women,2026
-2219,Women,NWSL,2026
-2220,Women,Damallsvenskan,2026
-2221,Women,Queensland NPL Women,2026
-2222,Women,Toppserien,2026
-2223,Women,Elitettan,2026
-2224,Women,Victoria NPL Women,2026
-2225,Women,Irish Women's Premier League,2026
-2226,Women,1. Division Women,2026
-2227,Women,Úrvalsdeild Women,2026
-2228,Women,Chinese Super League Women,2026
-2229,Women,Western Australia NPL Women,2026
-2230,Women,Queensland FQPL 1 Women,2026
-2231,Women,Russian Super League,2026
-2232,Women,Kansallinen Liiga,2026
-2233,Women,NI Premiership Women,2026
-2234,Women,Latvian Women's League,2026
-2235,Women,Colombian Liga Femenina BetPlay,2026
-2236,Women,Northern Super League,2026
+2100,Men,French National 1,26-27
+2101,Women,A-League Women,23-24
+2102,Women,Belgian Super League,23-24
+2103,Women,Brasileiro Women,2023
+2104,Women,Chinese Super League Women,2023
+2105,Women,Colombian Liga Femenina BetPlay,2023
+2106,Women,Czech 1. Liga Women,23-24
+2107,Women,Danish A-Liga,23-24
+2108,Women,English WSL,23-24
+2109,Women,English Women's Championship,23-24
+2110,Women,Kansallinen Liiga,2023
+2111,Women,D1 Féminine,23-24
+2112,Women,Frauen Bundesliga,23-24
+2113,Women,2. Bundesliga Women,23-24
+2114,Women,Hong Kong 1st Division,23-24
+2115,Women,Úrvalsdeild Women,2023
+2116,Women,Serie A Women,23-24
+2117,Women,WE League,23-24
+2118,Women,Nadeshiko League 1,2023
+2119,Women,Latvian Women's League,2023
+2120,Women,Liga MX Femenil,23-24
+2121,Women,Vrouwen Eredivisie,23-24
+2122,Women,NZ National Women's League,2023
+2123,Women,NI Premiership Women,2023
+2124,Women,Toppserien,2023
+2125,Women,Polish Ekstraliga,23-24
+2126,Women,Campeonato Nacional Feminino,23-24
+2127,Women,Irish Women's Premier League,2023
+2128,Women,Russian Super League,2023
+2129,Women,SWPL 1,23-24
+2130,Women,SWPL 2,23-24
+2131,Women,Primera Federación Femenina,23-24
+2132,Women,Liga F,23-24
+2133,Women,Damallsvenskan,2023
+2134,Women,Elitettan,2023
+2135,Women,Swiss Women's Super League,23-24
+2136,Women,Ukrainian Premier League Women,23-24
+2137,Women,NWSL,2023
+2138,Women,Brasileiro Women,2024
+2139,Women,Chinese Super League Women,2024
+2140,Women,Colombian Liga Femenina BetPlay,2024
+2141,Women,Kansallinen Liiga,2024
+2142,Women,Úrvalsdeild Women,2024
+2143,Women,Latvian Women's League,2024
+2144,Women,NI Premiership Women,2024
+2145,Women,Toppserien,2024
+2146,Women,Irish Women's Premier League,2024
+2147,Women,Russian Super League,2024
+2148,Women,Damallsvenskan,2024
+2149,Women,Elitettan,2024
+2150,Women,NWSL,2024
+2151,Women,Queensland NPL Women,2024
+2152,Women,Victoria NPL Women,2024
+2153,Women,1. Division Women,2024
+2154,Women,Queensland FQPL 1 Women,2024
+2155,Women,Western Australia NPL Women,2024
+2156,Women,A-League Women,24-25
+2157,Women,Belgian Super League,24-25
+2158,Women,Czech 1. Liga Women,24-25
+2159,Women,Danish A-Liga,24-25
+2160,Women,English WSL,24-25
+2161,Women,English Women's Championship,24-25
+2162,Women,D1 Féminine,24-25
+2163,Women,Frauen Bundesliga,24-25
+2164,Women,2. Bundesliga Women,24-25
+2165,Women,Hong Kong 1st Division,24-25
+2166,Women,WE League,24-25
+2167,Women,Liga MX Femenil,24-25
+2168,Women,NZ National Women's League,2024
+2169,Women,Polish Ekstraliga,24-25
+2170,Women,Campeonato Nacional Feminino,24-25
+2171,Women,SWPL 1,24-25
+2172,Women,SWPL 2,24-25
+2173,Women,Primera Federación Femenina,24-25
+2174,Women,Swiss Women's Super League,24-25
+2175,Women,Ukrainian Premier League Women,24-25
+2176,Women,USL Super League,24-25
+2177,Women,Brasileiro Women,2025
+2178,Women,NWSL,2025
+2179,Women,Damallsvenskan,2025
+2180,Women,Queensland NPL Women,2025
+2181,Women,Toppserien,2025
+2182,Women,Elitettan,2025
+2183,Women,Victoria NPL Women,2025
+2184,Women,Irish Women's Premier League,2025
+2185,Women,1. Division Women,2025
+2186,Women,Úrvalsdeild Women,2025
+2187,Women,Chinese Super League Women,2025
+2188,Women,Western Australia NPL Women,2025
+2189,Women,Queensland FQPL 1 Women,2025
+2190,Women,Russian Super League,2025
+2191,Women,Kansallinen Liiga,2025
+2192,Women,NI Premiership Women,2025
+2193,Women,Latvian Women's League,2025
+2194,Women,Colombian Liga Femenina BetPlay,2025
+2195,Women,Northern Super League,2025
+2196,Women,Kazakh QJ League U17,2025
+2197,Women,Liga MX Femenil,25-26
+2198,Women,Belgian Super League,25-26
+2199,Women,Danish A-Liga,25-26
+2200,Women,Danish U19 League,25-26
+2201,Women,Danish U16 League,25-26
+2202,Women,English WSL,25-26
+2203,Women,English Women's Championship,25-26
+2204,Women,D1 Féminine,25-26
+2205,Women,Frauen Bundesliga,25-26
+2206,Women,2. Bundesliga Women,25-26
+2207,Women,WE League,25-26
+2208,Women,Polish Ekstraliga,25-26
+2209,Women,Campeonato Nacional Feminino,25-26
+2210,Women,SWPL 1,25-26
+2211,Women,SWPL 2,25-26
+2212,Women,Ukrainian Premier League Women,25-26
+2213,Women,USL Super League,25-26
+2214,Women,A-League Women,25-26
+2215,Women,Serie A Women,25-26
+2216,Women,Hong Kong 1st Division,25-26
+2217,Women,NCAA D1,2025
+2218,Women,NCAA D1,2024
+2219,Women,Brasileiro Women,2026
+2220,Women,NWSL,2026
+2221,Women,Damallsvenskan,2026
+2222,Women,Queensland NPL Women,2026
+2223,Women,Toppserien,2026
+2224,Women,Elitettan,2026
+2225,Women,Victoria NPL Women,2026
+2226,Women,Irish Women's Premier League,2026
+2227,Women,1. Division Women,2026
+2228,Women,Úrvalsdeild Women,2026
+2229,Women,Chinese Super League Women,2026
+2230,Women,Western Australia NPL Women,2026
+2231,Women,Queensland FQPL 1 Women,2026
+2232,Women,Russian Super League,2026
+2233,Women,Kansallinen Liiga,2026
+2234,Women,NI Premiership Women,2026
+2235,Women,Latvian Women's League,2026
+2236,Women,Colombian Liga Femenina BetPlay,2026
+2237,Women,Northern Super League,2026
